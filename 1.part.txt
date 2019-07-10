@@ -41,7 +41,7 @@ succession
 succeed
 proceed 继续，前行
 exceed
-presice
+precise
 dose 剂量，服用量
 domain
 donate
@@ -94,7 +94,10 @@ obscure
 vague
 ambition
 precede
-accestor
+ancestor
 audit
 auditorium
 combat
+creep
+thrill
+horror
